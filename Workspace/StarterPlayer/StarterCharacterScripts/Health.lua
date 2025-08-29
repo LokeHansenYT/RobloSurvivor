@@ -1,0 +1,3 @@
+-- StarterCharacterScripts/Health  (LocalScript)
+-- Overstyrer Roblox’ default “Health” regen-script ved at levere vores egen, tomme udgave.
+-- Resultat: ingen automatisk health-regen.
